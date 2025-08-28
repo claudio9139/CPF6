@@ -1,0 +1,14 @@
+C:\Users\admin\Documents\VISUAL\CPF6\POO\claudio_gordon\desafio1_1\obj\Debug\net8.0\desafio1_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Documents\VISUAL\CPF6\POO\claudio_gordon\desafio1_1\obj\Debug\net8.0\desafio1_1.AssemblyInfoInputs.cache
+C:\Users\admin\Documents\VISUAL\CPF6\POO\claudio_gordon\desafio1_1\obj\Debug\net8.0\desafio1_1.AssemblyInfo.cs
+C:\Users\admin\Documents\VISUAL\CPF6\POO\claudio_gordon\desafio1_1\obj\Debug\net8.0\desafio1_1.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\VISUAL\CPF6\POO\claudio_gordon\desafio1_1\bin\Debug\net8.0\desafio1_1.exe
+C:\Users\admin\Documents\VISUAL\CPF6\POO\claudio_gordon\desafio1_1\bin\Debug\net8.0\desafio1_1.deps.json
+C:\Users\admin\Documents\VISUAL\CPF6\POO\claudio_gordon\desafio1_1\bin\Debug\net8.0\desafio1_1.runtimeconfig.json
+C:\Users\admin\Documents\VISUAL\CPF6\POO\claudio_gordon\desafio1_1\bin\Debug\net8.0\desafio1_1.dll
+C:\Users\admin\Documents\VISUAL\CPF6\POO\claudio_gordon\desafio1_1\bin\Debug\net8.0\desafio1_1.pdb
+C:\Users\admin\Documents\VISUAL\CPF6\POO\claudio_gordon\desafio1_1\obj\Debug\net8.0\desafio1_1.dll
+C:\Users\admin\Documents\VISUAL\CPF6\POO\claudio_gordon\desafio1_1\obj\Debug\net8.0\refint\desafio1_1.dll
+C:\Users\admin\Documents\VISUAL\CPF6\POO\claudio_gordon\desafio1_1\obj\Debug\net8.0\desafio1_1.pdb
+C:\Users\admin\Documents\VISUAL\CPF6\POO\claudio_gordon\desafio1_1\obj\Debug\net8.0\desafio1_1.genruntimeconfig.cache
+C:\Users\admin\Documents\VISUAL\CPF6\POO\claudio_gordon\desafio1_1\obj\Debug\net8.0\ref\desafio1_1.dll

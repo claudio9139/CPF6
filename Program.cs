@@ -1,40 +1,31 @@
-﻿namespace Ejercicio_for
+﻿namespace Contador_numeros_positivos
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-
             /*
-             Suma de pares hasta N
-             Pedir un número entero N y mostrar la suma de todos los números pares desde 1 hasta N.
 
-           
+                Contador de números positivos
+               Pedir números enteros al usuario hasta que ingrese un número negativo. 
+                Al final, mostrar cuántos positivos ingresó.
 
-            int numero;
-            string entrada;
-            long sumaNumero = 0;
- 
-            Console.WriteLine("Ingrese un numero entero N \n\n");
-            entrada = Console.ReadLine();
-            numero = int.Parse(entrada);
-
-            for (int i=0;i<=numero;i++)
-            {
-                if (i % 2 == 0)
-                {
-                   Console.WriteLine($"Numero par : {i}");
-                    sumaNumero += i;
-                }
-            }
-
-            Console.WriteLine($"La suma de los numeros pares es   : {sumaNumero}");
             */
 
-
-
-
-
+            Console.WriteLine("Ingrese numeros enteros positivos, para finalizar ingrese un numero negativo \n\n");
+            int numero;
+            int contador = 0;
+            do
+            {
+                numero = int.Parse(Console.ReadLine());
+                if (numero >= 0)
+                {
+                    contador++;
+                    Console.WriteLine($"Cardinal de numero ingresado {contador}   Numero ingresado {numero} \n\n");
+                }
+            } while (numero >= 0);
+            Console.WriteLine($"Ha ingresado {contador} numeros positivos");
+            Console.WriteLine("\n\n Fin del programa");
 
 
 
@@ -51,16 +42,6 @@
 
 
             //Console.WriteLine("Hello, World!");
-
-
-
-
-
-
-
-
-
-
         }
     }
 }

@@ -1,32 +1,38 @@
-﻿namespace Contador_numeros_positivos
+﻿namespace ConsoleApp1
 {
     internal class Program
     {
         static void Main(string[] args)
         {
             /*
-
-                Contador de números positivos
-               Pedir números enteros al usuario hasta que ingrese un número negativo. 
-                Al final, mostrar cuántos positivos ingresó.
-
+            
+             Promedio de notas
+             Pedir al usuario que ingrese notas (double). Seguir pidiendo hasta que escriba -1. Luego calcular y mostrar el promedio de las notas válidas.
             */
 
-            Console.WriteLine("Ingrese numeros enteros positivos, para finalizar ingrese un numero negativo \n\n");
-            int numero;
-            int contador = 0;
+            Console.WriteLine("Ingrese notas para calcular el promedio, para finalizar ingrese -1 \n\n");
+            double nota;
+            double sumaNotas = 0;
+            int contadorNotas = 0;
             do
             {
-                numero = int.Parse(Console.ReadLine());
-                if (numero >= 0)
+                nota = double.Parse(Console.ReadLine());
+                if (nota != -1)
                 {
-                    contador++;
-                    Console.WriteLine($"Cardinal de numero ingresado {contador}   Numero ingresado {numero} \n\n");
+                    sumaNotas += nota;
+                    contadorNotas++;
+                    Console.WriteLine($"Nota ingresada {nota}   Cardinal de notas ingresadas {contadorNotas} \n\n");
                 }
-            } while (numero >= 0);
-            Console.WriteLine($"Ha ingresado {contador} numeros positivos");
-            Console.WriteLine("\n\n Fin del programa");
-
+            } while (nota != -1);
+            if (contadorNotas > 0)
+            {
+                double promedio = sumaNotas / contadorNotas;
+                Console.WriteLine($"El promedio de las notas ingresadas es: {promedio}");
+            }
+            else
+            {
+                Console.WriteLine("No se ingresaron notas válidas.");
+            }
 
 
 

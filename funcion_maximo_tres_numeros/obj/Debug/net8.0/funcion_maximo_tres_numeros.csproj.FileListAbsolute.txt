@@ -1,0 +1,15 @@
+C:\Users\admin\Documents\VISUAL\CPF6\POO\claudio_gordon\funcion_maximo_tres_numeros\bin\Debug\net8.0\funcion_maximo_tres_numeros.exe
+C:\Users\admin\Documents\VISUAL\CPF6\POO\claudio_gordon\funcion_maximo_tres_numeros\bin\Debug\net8.0\funcion_maximo_tres_numeros.deps.json
+C:\Users\admin\Documents\VISUAL\CPF6\POO\claudio_gordon\funcion_maximo_tres_numeros\bin\Debug\net8.0\funcion_maximo_tres_numeros.runtimeconfig.json
+C:\Users\admin\Documents\VISUAL\CPF6\POO\claudio_gordon\funcion_maximo_tres_numeros\bin\Debug\net8.0\funcion_maximo_tres_numeros.dll
+C:\Users\admin\Documents\VISUAL\CPF6\POO\claudio_gordon\funcion_maximo_tres_numeros\bin\Debug\net8.0\funcion_maximo_tres_numeros.pdb
+C:\Users\admin\Documents\VISUAL\CPF6\POO\claudio_gordon\funcion_maximo_tres_numeros\obj\Debug\net8.0\funcion_maximo_tres_numeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Documents\VISUAL\CPF6\POO\claudio_gordon\funcion_maximo_tres_numeros\obj\Debug\net8.0\funcion_maximo_tres_numeros.AssemblyInfoInputs.cache
+C:\Users\admin\Documents\VISUAL\CPF6\POO\claudio_gordon\funcion_maximo_tres_numeros\obj\Debug\net8.0\funcion_maximo_tres_numeros.AssemblyInfo.cs
+C:\Users\admin\Documents\VISUAL\CPF6\POO\claudio_gordon\funcion_maximo_tres_numeros\obj\Debug\net8.0\funcion_maximo_tres_numeros.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\VISUAL\CPF6\POO\claudio_gordon\funcion_maximo_tres_numeros\obj\Debug\net8.0\funcion_maximo_tres_numeros.sourcelink.json
+C:\Users\admin\Documents\VISUAL\CPF6\POO\claudio_gordon\funcion_maximo_tres_numeros\obj\Debug\net8.0\funcion_maximo_tres_numeros.dll
+C:\Users\admin\Documents\VISUAL\CPF6\POO\claudio_gordon\funcion_maximo_tres_numeros\obj\Debug\net8.0\refint\funcion_maximo_tres_numeros.dll
+C:\Users\admin\Documents\VISUAL\CPF6\POO\claudio_gordon\funcion_maximo_tres_numeros\obj\Debug\net8.0\funcion_maximo_tres_numeros.pdb
+C:\Users\admin\Documents\VISUAL\CPF6\POO\claudio_gordon\funcion_maximo_tres_numeros\obj\Debug\net8.0\funcion_maximo_tres_numeros.genruntimeconfig.cache
+C:\Users\admin\Documents\VISUAL\CPF6\POO\claudio_gordon\funcion_maximo_tres_numeros\obj\Debug\net8.0\ref\funcion_maximo_tres_numeros.dll

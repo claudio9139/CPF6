@@ -1,0 +1,28 @@
+﻿################################################################################
+# Este archivo .gitignore ha sido creado automáticamente por Microsoft(R) Visual Studio.
+################################################################################
+
+/TesteoDeClase/TesteoDeClase.csproj
+/Tabla_Multiplicar_Personalizada/Tabla_Multiplicar_Personalizada.csproj
+/Random_Random/Random_Random.csproj
+/Prueba233/Prueba233.csproj
+/prueba cg/prueba cg.csproj
+/ConsoleApp1/Promedio_Notas.csproj
+/pedirenteroretorno promedio/pedirenteroretorno promedio.csproj
+/MyThreeProject/MyThreeProject.csproj
+/MiSegundaLibreria/MiSegundaLibreria.csproj
+/MiPrimerClase/MiPrimerClase.csproj
+/Funciones_1/Funciones_1.csproj
+/Ejercicio260825/Ejercicio260825.csproj
+/Ejercicio_While_1/Ejercicio_While_1.csproj
+/Ejercicio_for/Ejercicio_for.csproj
+/Ejercicio 5/Ejercicio 5.csproj
+/desafio1_1/desafio1_1.csproj
+/Desafio_1/Desafio_1.csproj
+/Contador_numeros_positivos/Contador_numeros_positivos.csproj
+/Condicionales/Condicionales.csproj
+/Comparacion_Cadenas/Comparacion_Cadenas.csproj
+/Clasificacion_numero_real/Clasificacion_numero_real.csproj
+/clase04092025/clase04092025.csproj
+/clase 030925/clase 030925.csproj
+/Auto/Auto.csproj
